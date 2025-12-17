@@ -60,7 +60,6 @@ GET /movie/{id}
 ➤ Create a movie
 POST /movie
 
-
 Body (JSON):
 
 {
